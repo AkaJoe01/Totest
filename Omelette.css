@@ -1,0 +1,360 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*THE MAIN DIV*/
+
+.parent{
+	margin: auto;
+	border: 1px solid  hsl(30, 54%, 90%);
+	width: 900px;
+	height: 1750px;
+	background-color: hsl(30, 54%, 90%);
+}
+
+/*THE END OF THE MAIN DIV*/
+
+
+/*THE SECTION DIV*/
+
+.sub_section{
+	
+	border: 1px solid hsl(0, 0%, 100%);
+	width: 800px;
+	height: 1650px;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	
+}
+
+/*END OF THE SECTION DIV*/
+
+
+/*THE MAIN IMAGE*/
+
+img{
+	margin-top: 15px;
+	border-radius: 20px;
+}
+
+/*END OF THE MAIN IMAGE*/
+
+
+/*OMELETTE TEXT PARAGRAPH*/
+
+.free{
+	font-family: Young-serif;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: -500px;
+	margin-top: 10px;
+}
+
+/*END OMELETTE TEXT PARAGRAPH*/
+
+
+
+
+/*TOP PARAGRAPH*/
+
+.post{
+	font-family: Verdana;
+	font-size: 16px;
+	margin-top: 13px;
+}
+
+/*END OF TOP PARAGRAPH*/
+
+
+
+/*PREPARATION TIME DIV*/
+.luck{
+	border: 1px solid #FFF7FC;
+	width: 700px;
+	height: 175px;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+	background-color: #FFF7FC;
+}
+
+/*END OF PREPARATION TIME DIV*/
+
+
+
+
+
+/*PREPARATION TIME TEXT*/
+
+.flow{
+	text-align: left;
+	margin-top: 20px;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 16px;
+	font-family: Sans-Serif;
+}
+
+/*END OF PREPARATION TIME TEXT*/
+
+
+
+
+/*INGREDIENT HEADING*/
+
+.wix{
+	text-align: left;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 25px;
+	font-family: Young-Serif;
+	margin-left: 1px;
+}
+
+/*END OF INGREDIENT HEADING*/
+
+
+
+/*Unordered list*/
+
+.let{
+	text-align: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	font-family: Verdana;
+}
+/*END OF UNORDERED LISTt*/
+
+
+
+
+/*Ingredient DIV*/
+
+.said{
+	border: 1px solid none;
+	width: 780px;
+	height: 240px;
+	margin: auto; 
+	margin-top: 25px;
+}
+
+/*END OF INGREDIENT DIV*/
+
+
+/*HORIZONTAL LINES*/
+
+.top_hr {
+    width: 90%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the HR */
+	margin-top: 20px;
+}
+
+.lower_hr{
+	width: 90%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the HR */
+	margin-top: 20px;
+}
+
+
+/*END OF HORIZONTAL LINES*/
+
+
+
+/*INSTRUCTIONS DIV*/
+
+.rome{
+	border: 1px solid none;
+	width: 770px;
+	height: 300px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+
+
+ol{
+	margin-left: 35px;
+}
+
+
+
+/*INSTRUCTIONS HEADING*/
+
+h2{
+	text-align: left;
+	color: #6C2541;
+	font-weight: bold;	
+	font-size: 30px;
+	font-family: Young-Serif;
+}
+
+/*END OF INSTRUCTIONS HEADING*/
+
+
+/*FOR THE INSTRUCTION*/
+
+.scale{
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+
+.pack{
+	text-align: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+
+
+/*INSTRUCTIONS TO NOTE*/
+
+/*h3{
+	margin: left;
+	margin-left: -800px;
+	margin-top: 20px;
+	font-family: Young-Serif;
+	font-size: 16px;
+	font-weight: bold;
+}*/
+
+
+
+p{
+	font-family: Verdana;
+	margin-top: 10px;
+}
+
+/*NUTRITION DIV*/
+
+.orient{
+	border: 1px solid none;
+	width: 750x;
+	height: 350px;
+	margin: auto;
+	margin-top: 25px;
+}
+
+/*END OF NUTRITION DIV8/
+
+
+
+/*NUTRITION PARAGRAPH*/
+
+.sign{
+	
+	text-align: left;
+	margin-left: 5px;
+	font-size: 16px;
+	font-family: Verdana;
+}
+
+/*END OF NUTRITION PARAGRAPH*/
+
+
+
+/*SUB NUTRITION PARAGRAPH*/
+
+.cain{
+	text-align: left;
+	margin-left: 30px;
+	font-family: Young-Serif;
+	font-size: 16px;
+}
+
+
+
+
+.cream{
+	margin: right;
+	margin-right: 70px;
+	font-family: Young-Serif;
+	font-size: 16px;
+	margin-top: -30px;
+	font-weight: bold;
+	
+}
+
+/*END OF SUB NUTRITION PARAGRAPH*/
+
+
+
+/*NUTRITION PARAGRAPH DIV*/
+
+.cloth{
+	border: 1px solid black;
+	margin: right;
+	width:200px;
+	height: 200px;
+	margin-top: 10px;
+}
+
+
+
+.mark{
+	border: 1px solid black;
+	margin: left;
+	width: 200px;
+	height: 200px;
+	margin-top: 10px;
+}
+
+
+/*END OF NUTRITION PARAGRAPH DIV*/ 
+
+
+
+table, td {
+  border: 1px solid none;
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: -260px;
+  height: 60px;
+}
+
+
+/*PART OF THE NUTRITION*/
+
+.web{
+	font-family: Verdana;
+	font-size: 16px;
+}
+
+.fit{
+	font-family: Verdana;
+	font-size: 16px;
+	font-weight: bold;
+	color: hsl(332, 51%, 32%);
+}
+
+
+/*END PART OF THE NUTRITION PART*/
+
+
+@media only screen and (max-width:800px) {
+	/*For tablets: */
+	
+	.parent{
+		width: 80%;
+		padding: 0;
+	}
+	
+	.sub_section {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	/* For mobile phones: */
+	
+	.parent,
+	.sub_section {
+		width: 100%;
+	}
+}
+
+
